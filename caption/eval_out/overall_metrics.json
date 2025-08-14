@@ -1,0 +1,11 @@
+{
+  "exact_match_accuracy": 0.004873591227535791,
+  "hamming_loss": 0.2723298274533694,
+  "jaccard_macro": 0.2749439133921059,
+  "macro_precision": 0.2947312440142389,
+  "macro_recall": 0.6032842013306222,
+  "macro_f1": 0.3707526370586035,
+  "micro_precision": 0.47308913498025246,
+  "micro_recall": 0.8847852849590847,
+  "micro_f1": 0.6165257979058912
+}
