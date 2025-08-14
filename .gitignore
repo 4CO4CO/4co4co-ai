@@ -1,1 +1,10 @@
 final/model/
+face/places/
+face/proj/
+data/
+caption/data/
+caption/runs_mlp/
+caption/unified_preprocessed_data/
+caption/unified_runs_mlp/
+caption/clip_preprocessed_data/
+face/etc/
