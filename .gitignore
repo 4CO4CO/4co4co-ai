@@ -2,7 +2,10 @@ final/model/
 face/places/
 face/proj/
 data/
-caption/data/
+caption/data/data_person/
+caption/data/data_nature/splits_nature/
+caption/data/data_nature/val_256/
+caption/data/data_nature/val_by_class/
 caption/runs_mlp/
 caption/unified_preprocessed_data/
 caption/unified_runs_mlp/
