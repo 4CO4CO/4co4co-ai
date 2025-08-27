@@ -402,7 +402,7 @@ def generate_music(emotion_text: str, caption: str = "", max_duration: int = 10,
         with torch.no_grad():
             audio_values = model.generate(
                 **inputs,
-                max_new_tokens=650,
+                max_new_tokens=500,
                 do_sample=True,
                 temperature=1.0,
                 top_k=250,
